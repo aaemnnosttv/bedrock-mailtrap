@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Mailtrap
- * Description: Capture outgoing mail in non-production environments.  Set Mailtrap credentials using 'MAILTRAP_USER' and 'MAILTRAP_PASS' environment variables.
+ * Description: Capture outgoing mail in non-production environments.  Set Mailtrap credentials using <code>MAILTRAP_USER</code> and <code>MAILTRAP_PASS</code> environment variables.
  * Author: Evan Mattson
  * Author URI: https://aaemnnost.tv
  *
