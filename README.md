@@ -19,7 +19,7 @@ Simply install this package, set your Mailtrap credentials, and you're done.
 
 Require the package with Composer.
 ```
-composer require aaemnnosttv/bedrock-mailtrap:^0.1
+composer require aaemnnosttv/bedrock-mailtrap:^1.0
 ```
 
 Set your Mailtrap credentials in your project's `.env` file like so
