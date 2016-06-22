@@ -1,0 +1,13 @@
+{
+    "name": "aaemnnosttv/bedrock-mailtrap",
+    "description": "Capture outgoing mail in non-production environments with Mailtrap for Roots Bedrock WordPress installs.",
+    "type": "wordpress-muplugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evan Mattson",
+            "email": "me@aaemnnost.tv"
+        }
+    ],
+    "require": {}
+}
