@@ -14,7 +14,7 @@ if ('production' == WP_ENV) {
 
 add_action('phpmailer_init', function($phpmailer) {
     $phpmailer->isSMTP();
-    $phpmailer->Host     = 'mailtrap.io';
+    $phpmailer->Host     = 'smtp.mailtrap.io';
     $phpmailer->SMTPAuth = true;
     $phpmailer->Port     = 2525;
     $phpmailer->Username = getenv('MAILTRAP_USER');
