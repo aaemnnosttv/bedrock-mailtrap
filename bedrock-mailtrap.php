@@ -5,7 +5,7 @@
  * Author: Evan Mattson
  * Author URI: https://aaemnnost.tv
  *
- * Version: 1.0.0
+ * Version: 1.0.1
  */
 
 if ('production' == WP_ENV) {
